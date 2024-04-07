@@ -6,8 +6,6 @@ Software Developer
 
 * 🌍  Birmingham, AL
 * ✉️  [warrenspencer41@gmail.com](mailto:warrenspencer41@gmail.com)
-* 
-
 
 ### Skills
 
