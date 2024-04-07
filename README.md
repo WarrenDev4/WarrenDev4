@@ -1,4 +1,4 @@
-Hi 👋 My name is Warren Spencer
+Warren Spencer
 ===============================
 
 Software Developer
