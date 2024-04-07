@@ -4,9 +4,10 @@ Warren Spencer
 Software Developer
 ------------------
 
-* 🌍  I'm based in Birmingham, AL
-* ✉️  You can contact me at [warrenspencer41@gmail.com](mailto:warrenspencer41@gmail.com)
-* 🧠  I'm learning Spring Boot
+* 🌍  Birmingham, AL
+* ✉️  [warrenspencer41@gmail.com](mailto:warrenspencer41@gmail.com)
+* 
+
 
 ### Skills
 
