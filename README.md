@@ -1,7 +1,7 @@
 Warren Spencer
 ===============================
 
-Software Developer
+Software Engineer
 ------------------
 
 * 🌍  Birmingham, AL
