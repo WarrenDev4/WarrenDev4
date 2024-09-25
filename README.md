@@ -1,6 +1,7 @@
 Warren Spencer
 =================================
 
+### Contact:
 * 🌍  Birmingham, AL
 * ✉️  [warrenspencer41@gmail.com](mailto:warrenspencer41@gmail.com)
 
