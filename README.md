@@ -17,6 +17,8 @@ Software Developer - AI Trainer at Outlier AI
 
 Application Development Intern at Florida Blue
 
+IBM Accelerate Participant - Software Developer Track at IBM
+
 ### Skills
 
 
