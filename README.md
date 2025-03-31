@@ -15,7 +15,7 @@ Lawson State Community College - Associate in the Applied Science in Computer Sc
 ### Work Experience:
 Software Developer at Reality AI Lab
 
-Software Developer - AI Trainer at Outlier AI
+AI Trainer at Outlier AI
 
 Application Development Intern at Florida Blue
 
