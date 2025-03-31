@@ -17,7 +17,7 @@ Software Developer at Reality AI Lab
 
 AI Trainer at Outlier AI
 
-Application Development Intern at Florida Blue
+Application Developer Intern at Florida Blue
 
 IBM Accelerate Participant - Software Developer Track at IBM
 
